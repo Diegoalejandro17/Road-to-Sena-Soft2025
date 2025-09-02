@@ -39,7 +39,24 @@ Este repositorio documenta mi camino en la hackathon **SENASoft 2025**, desde la
   - Presentación en la Tarima de los Visionarios  
 
 - [ ] **Premiación (10 octubre)**  
-  - Celebrar los logros y seguir construyendo  
+  - Celebrar los logros y seguir construyendo
+    
+---
+
+## 💡 Retos realizados  
+
+Durante el proceso de clasificación también participé en los **retos especiales de SENASoft**:  
+
+1. **Asistente Virtual** 🧑‍💻  
+   Creé un **prompt** para diseñar un asistente conversacional funcional y útil.  
+
+2. **Métricas para Leonardo** 📊  
+   Diseñé la **estructura de datos** y agregué métricas que fortalecieron a Leonardo como asistente de SENASoft.  
+
+3. **Demo en 2 minutos** 🎬  
+   Preparé una **demo rápida** con **Figma + Make**, mostrando un prototipo funcional en tiempo récord.  
+
+✔️ Estos retos no solo sumaron puntos en el ranking, también me enseñaron a ser ágil, creativo y estratégico.  
 
 ---
 
