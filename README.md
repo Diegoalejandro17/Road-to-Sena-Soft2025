@@ -7,6 +7,8 @@
 🥇 **Mejor aprendiz de Distrito Capital en SENASoft 2025**  
 Un logro que refleja esfuerzo, disciplina y pasión por la tecnología.  
 
+![Logo ENTerritorio S.A](img/top10.png)
+
 ---
 
 ## 🌟 Sobre mí  
