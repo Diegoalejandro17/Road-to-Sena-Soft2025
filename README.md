@@ -13,7 +13,7 @@ Un logro que refleja esfuerzo, disciplina y pasión por la tecnología.
 
 ## 🌟 Sobre mí  
 
-Soy Diego Alejandro Paloma Diaz, aprendiz del SENA apasionado por la tecnología, la innovación y la inteligencia artificial.  
+Soy Diego Alejandro Paloma Diaz, aprendiz del SENA apasionado por la tecnología y la innovación.  
 Este repositorio documenta mi camino en la hackathon **SENASoft 2025**, desde la inscripción hasta la presentación final del MVP.  
 
 ---
