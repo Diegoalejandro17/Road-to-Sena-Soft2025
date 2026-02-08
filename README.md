@@ -36,11 +36,11 @@ Este repositorio documenta mi camino en la hackathon **SENASoft 2025**, desde la
 - [ ] **Conexión con el equipo (septiembre)**  
   - Sesiones de preparación y planeación del MVP  
 
-- [ ] **Batalla del MVP (7–9 octubre)**  
+- [ ] **Batalla del MVP (20–24 octubre)**  
   - Competencia en la Arena de la IA ⚔️🤖  
   - Presentación en la Tarima de los Visionarios  
 
-- [ ] **Premiación (10 octubre)**  
+- [ ] **Premiación (24 octubre)**  
   - Celebrar los logros y seguir construyendo
     
 ---
