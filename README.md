@@ -18,7 +18,7 @@ Este repositorio documenta mi camino en la hackathon **SENASoft 2025**, desde la
 
 ---
 
-## 🗺️ Mi ruta hacia SENASoft  
+## 🗺️ Mi ruta hacia SenaSoft  
 
 - [x] **Inscripción (6–10 agosto)**  
   - Cruce con Quiliano y Magnus 🧙🤖  
