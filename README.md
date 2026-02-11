@@ -93,9 +93,9 @@ road-to-senasoft/
 | Ruta Habilitadora    | ✅ Completada |
 | Selección            | ✅ Clasificado |
 | Reconocimiento       | 🥇 Mejor en Distrito Capital |
-| Preparación en equipo| 🔄 En curso |
-| Batalla del MVP      | ⏳ Pendiente |
-| Presentación final   | ⏳ Pendiente |
+| Preparación en equipo| ✅ Completada |
+| Batalla del MVP      | ✅ Completada |
+| Presentación final   | ✅ Completada |
 
 ---
 
