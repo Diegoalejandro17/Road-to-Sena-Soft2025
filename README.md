@@ -113,8 +113,7 @@ road-to-senasoft/
 - **Inteligencia Artificial** y **Machine Learning**
 - **Desarrollo web** (HTML, CSS, JavaScript)
 - **Backend** (Python, PHP, Node.js)
-- **Bases de datos** (MySQL, PostgreSQL)
-- **Frameworks** modernos
+- **Bases de datos** (MySQL, PostgreSQ, MongoBD)
 - **Herramientas de colaboración** (Git, GitHub)
 
 ---
